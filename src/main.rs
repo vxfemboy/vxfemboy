@@ -192,12 +192,15 @@ fn create_ascii_badge(label: &str, value: &str, width: usize) -> String {
     let label_width = label.len() + 2;
     let value_width = total_width - label_width;
 
+    let top_bottom = "─".repeat(total_width);
+    let label_part = format!(" {:<width$}", label, width = label_width - 2);
+    let value_part = format!(" {:<width$} ", value, width = value_width - 2);
+
     format!(
-        "╭{}╮\n│{}│{}│\n╰{}╯",
-        "─".repeat(total_width),
-        format!(" {:<1$}", label, label_width - 2),
-        format!(" {:<1$} ", value, value_width - 2),
-        "─".repeat(total_width)
+        "╭{0}╮\n│{1}│{2}│\n╰{0}╯",
+        top_bottom,
+        label_part,
+        value_part
     )
 }
 
