@@ -198,9 +198,7 @@ fn create_ascii_badge(label: &str, value: &str, width: usize) -> String {
 
     format!(
         "╭{0}╮\n│{1}│{2}│\n╰{0}╯",
-        top_bottom,
-        label_part,
-        value_part
+        top_bottom, label_part, value_part
     )
 }
 
