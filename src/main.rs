@@ -1,15 +1,18 @@
+use chrono::prelude::*;
+use figlet_rs::FIGfont;
+use reqwest::blocking::Client;
+use serde_json::{json, Value};
 use std::env;
 use std::fs::File;
 use std::io::Write;
-use reqwest::blocking::Client;
-use serde_json::{Value, json};
-use chrono::prelude::*;
-use figlet_rs::FIGfont;
 
-fn get_github_activity(username: &str, token: &str) -> Result<Vec<Value>, Box<dyn std::error::Error>> {
+fn get_github_activity(
+    username: &str,
+    token: &str,
+) -> Result<Vec<Value>, Box<dyn std::error::Error>> {
     let url = format!("https://api.github.com/users/{}/events/public", username);
     let client = Client::new();
-    
+
     client
         .get(&url)
         .header("Authorization", format!("token {}", token))
@@ -81,15 +84,16 @@ fn create_ascii_bar(percentage: f64, width: usize) -> String {
 }
 
 fn format_activity(activity: &Value) -> String {
-    let event_type = activity["type"]
-        .as_str()
-        .unwrap_or("")
-        .replace("Event", "");
+    let event_type = activity["type"].as_str().unwrap_or("").replace("Event", "");
     let repo = activity["repo"]["name"].as_str().unwrap_or("");
     let created_at = activity["created_at"].as_str().unwrap_or("");
-    let dt = DateTime::parse_from_rfc3339(created_at)
-        .unwrap_or_else(|_| Utc::now().into());
-    format!("{:<16} | {:<15} | {}", dt.format("%Y-%m-%d %H:%M"), event_type, repo)
+    let dt = DateTime::parse_from_rfc3339(created_at).unwrap_or_else(|_| Utc::now().into());
+    format!(
+        "{:<16} | {:<15} | {}",
+        dt.format("%Y-%m-%d %H:%M"),
+        event_type,
+        repo
+    )
 }
 
 fn download_font() {
@@ -104,10 +108,9 @@ fn download_font() {
         .expect("Failed to write to font file");
 }
 
-
 fn get_github_stats(username: &str, token: &str) -> serde_json::Value {
     let client = Client::new();
-    
+
     let query = format!(
         r#"
         query {{
@@ -166,7 +169,6 @@ fn get_github_stats(username: &str, token: &str) -> serde_json::Value {
     })
 }
 
-
 fn format_github_stats(stats: &Value) -> String {
     format!(
         "+-------------+------------------------+----------------+--------------------------------------+\n\
@@ -189,7 +191,7 @@ fn create_ascii_badge(label: &str, value: &str, width: usize) -> String {
     let total_width = width.max(label.len() + value.len() + 4);
     let label_width = label.len() + 2;
     let value_width = total_width - label_width;
-    
+
     format!(
         "╭{}╮\n│{}│{}│\n╰{}╯",
         "─".repeat(total_width),
@@ -202,8 +204,9 @@ fn create_ascii_badge(label: &str, value: &str, width: usize) -> String {
 fn get_github_followers(username: &str, token: &str) -> u64 {
     let client = Client::new();
     let url = format!("https://api.github.com/users/{}", username);
-    
-    client.get(&url)
+
+    client
+        .get(&url)
         .header("Authorization", format!("token {}", token))
         .header("User-Agent", "Rust GitHub Action")
         .send()
@@ -233,14 +236,18 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let github_stars_badge = create_ascii_badge("Stars", &github_stars.to_string(), 20);
 
     let mut output = "> [!WARNING]\n> ```".to_string();
-    
+
     let header_lines: Vec<&str> = ascii_header.lines().collect();
     let badges_string = format!("{}\n\n{}", github_followers_badge, github_stars_badge);
     let badge_lines: Vec<&str> = badges_string.lines().collect();
-    let max_header_width = header_lines.iter().map(|line| line.len()).max().unwrap_or(0);
-    
+    let max_header_width = header_lines
+        .iter()
+        .map(|line| line.len())
+        .max()
+        .unwrap_or(0);
+
     let badge_offset = 4;
-    
+
     for i in 0..header_lines.len().max(badge_lines.len() + badge_offset) {
         let header_part = header_lines.get(i).unwrap_or(&"").to_string();
         let badge_part = if i >= badge_offset {
@@ -248,9 +255,14 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
         } else {
             String::new()
         };
-        output += &format!("> {:<width$} {}\n", header_part, badge_part, width = max_header_width + 2);
+        output += &format!(
+            "> {:<width$} {}\n",
+            header_part,
+            badge_part,
+            width = max_header_width + 2
+        );
     }
-    
+
     output += "> ```\n";
     output += "> <p>Software by this user may be <b>potentially hazardous</b>. Explore at your own risk.</p>\n\n";
     output += "---\n\n";
@@ -272,7 +284,6 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     output += &format_github_stats(&github_stats);
     output += "\n```\n\n";
 
-
     output += "#### 🔥 Activity\n";
     output += "```\n";
     output += &"-".repeat(60);
@@ -288,7 +299,8 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     output += "```\n\n";
 
     output += "> [!NOTE]\n";
-    output += "> <p align=\"center\">This README is <b>auto-generated</b> with Rust and Actions</p>";
+    output +=
+        "> <p align=\"center\">This README is <b>auto-generated</b> with Rust and Actions</p>";
 
     let mut file = File::create("README.md").expect("Failed to create README.md");
     file.write_all(output.as_bytes())
