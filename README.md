@@ -8,7 +8,7 @@
 >       .xX0ddddod0O;          l0;;KK;    ...     oNNl        'ONx.    ╰────────────────────╯
 > cOxc.   .''...c0x.           o0,.xN0dooool;     ;XWx.      ;0Nd.     
 > .lkXKd,     .dKo.       ..';l0XkxxONKl..        .OW0'    .lKKl.      ╭────────────────────╮
->    'o0Xx,  .dXo        xOOkxOXd'. .kNd.         .dWX:   ,kXk'        │ Stars│ 164         │
+>    'o0Xx,  .dXo        xOOkxOXd'. .kNd.         .dWX:   ,kXk'        │ Stars│ 169         │
 >      .oXXl.lNx.        ...  lO,    'ONd.         cXWd.,xKO;          ╰────────────────────╯
 >        :KXOX0,             .Ox.     'ONx.        ,0WKO0x;.           
 >         :KWXl              lK:       .kN0: ;xkdllxXWNx.              
@@ -39,7 +39,7 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 |   Metric    |         Value          |     Metric     |                Value                 |
 +-------------+------------------------+----------------+--------------------------------------+
 |   Commits   |                     70 | Issues opened  |                                    0 |
-| PRs opened  |                      2 | Stars received |                                  164 |
+| PRs opened  |                      2 | Stars received |                                  169 |
 | Repos owned |                     32 | Contributed to |                                    1 |
 +-------------+------------------------+----------------+--------------------------------------+
 ```
@@ -54,7 +54,7 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 2024-10-09 09:24 | Watch           | decalage2/awesome-security-hardening
 ------------------------------------------------------------
 
-Last updated: 2024-10-11 06:06:31
+Last updated: 2024-10-11 12:07:14
 ```
 
 > [!NOTE]
