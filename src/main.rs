@@ -219,7 +219,7 @@ fn get_github_followers(username: &str, token: &str) -> u64 {
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     download_font();
 
-    let username = "vxfemboy";
+    let username = "JMP-0xFF";
     let token = env::var("GITHUB_TOKEN").expect("GITHUB_TOKEN not set");
 
     // Step 3: Fetch GitHub data
