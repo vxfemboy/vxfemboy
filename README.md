@@ -4,7 +4,7 @@
 >       .OWNXd,.      ..       ;XNc             .xW0'        ....'..   
 >       ,KXdokkd:.  .cOd.      ,KW0,         .,,'oNNd;:clodxkkkk0XXo   
 >       :NO.      'o0NO,.      ;KNNx.        :OK0KNWXOxdlc:,'...oNXc   ╭────────────────────╮
->       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 91      │
+>       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 90      │
 >       .xX0ddddod0O;          l0;;KK;    ...     oNNl        'ONx.    ╰────────────────────╯
 > cOxc.   .''...c0x.           o0,.xN0dooool;     ;XWx.      ;0Nd.     
 > .lkXKd,     .dKo.       ..';l0XkxxONKl..        .OW0'    .lKKl.      ╭────────────────────╮
@@ -54,7 +54,7 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 2024-12-05 05:52 | Watch           | NLnetLabs/krill
 ------------------------------------------------------------
 
-Last updated: 2024-12-18 12:08:11
+Last updated: 2024-12-18 18:06:22
 ```
 
 > [!NOTE]
