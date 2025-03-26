@@ -47,14 +47,14 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-03-26 02:54 | Watch           | TecharoHQ/anubis
+2025-03-26 02:45 | Watch           | TheCommsChannel/TC2-BBS-mesh
 2025-03-24 20:04 | Watch           | hackerschoice/bincrypter
 2025-03-22 20:18 | Watch           | shell-pool/shpool
 2025-03-22 18:58 | Watch           | hackerschoice/gsocket
-2025-03-22 18:42 | Watch           | evilsocket/shellz
-2025-03-16 13:35 | Watch           | yunginnanet/fubar
 ------------------------------------------------------------
 
-Last updated: 2025-03-26 00:19:37
+Last updated: 2025-03-26 06:07:02
 ```
 
 > [!NOTE]
