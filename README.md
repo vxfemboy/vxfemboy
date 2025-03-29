@@ -47,14 +47,14 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-03-28 14:16 | Watch           | yunginnanet/quick-secure
+2025-03-28 14:16 | Watch           | LaurieWired/GhidraMCP
 2025-03-26 21:43 | Watch           | isaakhanimann/psychonautwiki-journal-ios
 2025-03-26 02:54 | Watch           | TecharoHQ/anubis
 2025-03-26 02:45 | Watch           | TheCommsChannel/TC2-BBS-mesh
-2025-03-24 20:04 | Watch           | hackerschoice/bincrypter
-2025-03-22 20:18 | Watch           | shell-pool/shpool
 ------------------------------------------------------------
 
-Last updated: 2025-03-29 00:19:16
+Last updated: 2025-03-29 06:06:17
 ```
 
 > [!NOTE]
