@@ -4,7 +4,7 @@
 >       .OWNXd,.      ..       ;XNc             .xW0'        ....'..   
 >       ,KXdokkd:.  .cOd.      ,KW0,         .,,'oNNd;:clodxkkkk0XXo   
 >       :NO.      'o0NO,.      ;KNNx.        :OK0KNWXOxdlc:,'...oNXc   ╭────────────────────╮
->       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 168     │
+>       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 169     │
 >       .xX0ddddod0O;          l0;;KK;    ...     oNNl        'ONx.    ╰────────────────────╯
 > cOxc.   .''...c0x.           o0,.xN0dooool;     ;XWx.      ;0Nd.     
 > .lkXKd,     .dKo.       ..';l0XkxxONKl..        .OW0'    .lKKl.      ╭────────────────────╮
@@ -54,7 +54,7 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 2025-03-22 20:18 | Watch           | shell-pool/shpool
 ------------------------------------------------------------
 
-Last updated: 2025-03-28 18:06:20
+Last updated: 2025-03-29 00:19:16
 ```
 
 > [!NOTE]
