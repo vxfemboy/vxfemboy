@@ -47,14 +47,14 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-06-04 07:26 | Watch           | parthsarthi03/raptor
+2025-06-04 07:17 | Watch           | os-fpga/Raptor
 2025-05-30 23:04 | Watch           | signalapp/libsignal
 2025-05-30 22:02 | Watch           | signalapp/Signal-Desktop
 2025-05-19 00:25 | Watch           | isaakhanimann/psychonautwiki-journal-android
-2025-05-19 00:24 | Watch           | isaakhanimann/psychonautwiki-journal-ios
-2025-05-16 21:45 | Watch           | uint23/sxwm
 ------------------------------------------------------------
 
-Last updated: 2025-06-04 12:08:32
+Last updated: 2025-06-04 18:06:48
 ```
 
 > [!NOTE]
