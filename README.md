@@ -8,7 +8,7 @@
 >       .xX0ddddod0O;          l0;;KK;    ...     oNNl        'ONx.    ╰────────────────────╯
 > cOxc.   .''...c0x.           o0,.xN0dooool;     ;XWx.      ;0Nd.     
 > .lkXKd,     .dKo.       ..';l0XkxxONKl..        .OW0'    .lKKl.      ╭────────────────────╮
->    'o0Xx,  .dXo        xOOkxOXd'. .kNd.         .dWX:   ,kXk'        │ Stars│ 1134        │
+>    'o0Xx,  .dXo        xOOkxOXd'. .kNd.         .dWX:   ,kXk'        │ Stars│ 1135        │
 >      .oXXl.lNx.        ...  lO,    'ONd.         cXWd.,xKO;          ╰────────────────────╯
 >        :KXOX0,             .Ox.     'ONx.        ,0WKO0x;.           
 >         :KWXl              lK:       .kN0: ;xkdllxXWNx.              
@@ -39,7 +39,7 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 |   Metric    |         Value          |     Metric     |                Value                 |
 +-------------+------------------------+----------------+--------------------------------------+
 |   Commits   |                     81 | Issues opened  |                                    2 |
-| PRs opened  |                      1 | Stars received |                                 1134 |
+| PRs opened  |                      1 | Stars received |                                 1135 |
 | Repos owned |                     37 | Contributed to |                                    0 |
 +-------------+------------------------+----------------+--------------------------------------+
 ```
@@ -54,7 +54,7 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 2025-06-27 21:01 | Watch           | aya-rs/aya
 ------------------------------------------------------------
 
-Last updated: 2025-07-17 12:09:12
+Last updated: 2025-07-17 18:07:17
 ```
 
 > [!NOTE]
