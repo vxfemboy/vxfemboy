@@ -4,7 +4,7 @@
 >       .OWNXd,.      ..       ;XNc             .xW0'        ....'..   
 >       ,KXdokkd:.  .cOd.      ,KW0,         .,,'oNNd;:clodxkkkk0XXo   
 >       :NO.      'o0NO,.      ;KNNx.        :OK0KNWXOxdlc:,'...oNXc   ╭────────────────────╮
->       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 193     │
+>       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 192     │
 >       .xX0ddddod0O;          l0;;KK;    ...     oNNl        'ONx.    ╰────────────────────╯
 > cOxc.   .''...c0x.           o0,.xN0dooool;     ;XWx.      ;0Nd.     
 > .lkXKd,     .dKo.       ..';l0XkxxONKl..        .OW0'    .lKKl.      ╭────────────────────╮
@@ -47,14 +47,14 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-08-04 20:44 | Watch           | RustAudio/rust-jack
+2025-08-04 20:34 | Watch           | yonggekkk/Cloudflare-vless-trojan
 2025-08-03 15:50 | Watch           | ptpt52/natcap
 2025-08-03 14:39 | Watch           | basil00/reqrypt
 2025-08-03 12:56 | Watch           | osrg/rustybgp
-2025-08-02 20:05 | Watch           | monero-project/monero-gui
-2025-08-01 19:10 | Watch           | milen-denev/rasterizeddb
 ------------------------------------------------------------
 
-Last updated: 2025-08-05 06:08:57
+Last updated: 2025-08-05 12:09:57
 ```
 
 > [!NOTE]
