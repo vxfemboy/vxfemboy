@@ -4,7 +4,7 @@
 >       .OWNXd,.      ..       ;XNc             .xW0'        ....'..   
 >       ,KXdokkd:.  .cOd.      ,KW0,         .,,'oNNd;:clodxkkkk0XXo   
 >       :NO.      'o0NO,.      ;KNNx.        :OK0KNWXOxdlc:,'...oNXc   ╭────────────────────╮
->       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 200     │
+>       cN0,  .'cdONXo.        :0dkNl         ...,OWK:         ,0Wx.   │ Followers│ 201     │
 >       .xX0ddddod0O;          l0;;KK;    ...     oNNl        'ONx.    ╰────────────────────╯
 > cOxc.   .''...c0x.           o0,.xN0dooool;     ;XWx.      ;0Nd.     
 > .lkXKd,     .dKo.       ..';l0XkxxONKl..        .OW0'    .lKKl.      ╭────────────────────╮
@@ -47,14 +47,14 @@ CSS          [▓░░░░░░░░░░░░░░░░░░░] 0.2%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-09-21 05:45 | Watch           | cloudflare/privacy-gateway-server-go
 2025-09-20 09:57 | Watch           | holo-routing/containerlab-topologies
 2025-09-20 09:52 | Watch           | holo-routing/holo
 2025-09-20 09:52 | Fork            | osrg/rustybgp
 2025-09-20 09:51 | Watch           | osrg/rustybgp
-2025-09-19 00:42 | Watch           | pierky/arouteserver
 ------------------------------------------------------------
 
-Last updated: 2025-09-21 00:22:14
+Last updated: 2025-09-21 06:06:58
 ```
 
 > [!NOTE]
