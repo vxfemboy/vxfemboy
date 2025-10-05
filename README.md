@@ -47,14 +47,14 @@ JavaScript   [▓░░░░░░░░░░░░░░░░░░░] 0.3%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-10-04 22:46 | Watch           | MatheuZSecurity/Singularity
 2025-10-03 07:30 | Watch           | mkj/dropbear
 2025-10-03 06:59 | Watch           | lukas2511/debian-installer
 2025-10-03 06:50 | Watch           | r-pufky/wireguard-initramfs
 2025-10-03 06:22 | Watch           | ionet-official/iointel
-2025-10-03 06:20 | Fork            | isdrupter/busybotnet
 ------------------------------------------------------------
 
-Last updated: 2025-10-05 06:06:33
+Last updated: 2025-10-05 12:07:57
 ```
 
 > [!NOTE]
