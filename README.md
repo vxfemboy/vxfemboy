@@ -47,14 +47,14 @@ JavaScript   [▓░░░░░░░░░░░░░░░░░░░] 0.3%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-10-08 01:32 | Watch           | markabrahams/node-net-snmp
+2025-10-07 22:44 | Watch           | whisperfish/presage
 2025-10-07 20:28 | Watch           | esmith443/Verizon-ONT-Bypass
 2025-10-06 11:31 | Watch           | MWedl/http3-ip-spoofing
 2025-10-06 01:45 | Watch           | juspay/hyperswitch
-2025-10-04 22:46 | Watch           | MatheuZSecurity/Singularity
-2025-10-03 07:30 | Watch           | mkj/dropbear
 ------------------------------------------------------------
 
-Last updated: 2025-10-08 00:20:02
+Last updated: 2025-10-08 06:07:29
 ```
 
 > [!NOTE]
