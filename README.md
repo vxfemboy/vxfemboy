@@ -47,14 +47,14 @@ JavaScript   [▓░░░░░░░░░░░░░░░░░░░] 0.3%
 #### 🔥 Activity
 ```
 ------------------------------------------------------------
+2025-10-08 12:13 | Watch           | maldiohead/network-emulator
+2025-10-08 12:12 | Watch           | fullhunt/0day-today-archive
+2025-10-08 12:10 | Watch           | mohitmishra786/reversingBits
 2025-10-08 01:32 | Watch           | markabrahams/node-net-snmp
 2025-10-07 22:44 | Watch           | whisperfish/presage
-2025-10-07 20:28 | Watch           | esmith443/Verizon-ONT-Bypass
-2025-10-06 11:31 | Watch           | MWedl/http3-ip-spoofing
-2025-10-06 01:45 | Watch           | juspay/hyperswitch
 ------------------------------------------------------------
 
-Last updated: 2025-10-08 12:09:30
+Last updated: 2025-10-08 18:07:28
 ```
 
 > [!NOTE]
