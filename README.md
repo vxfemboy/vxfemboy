@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    219    │ │    1244   │    )     (
+>   ,-.       _,---._ __  / \     │    219    │ │    1243   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Fork   YaLTeR/niri                     │ │ Cmt  4 Iss 16     │
-> │ Watch  MixColumns/Please-Don-t-Hat...  │ │ PRs  4 Rpo 56     │
-> │ Watch  KolbyML/Mangatan                │ │ Contrib      5    │
+> │ Push   vxfemboy/vxfemboy               │ │ Cmt 24 Iss  3     │
+> │ Fork   YaLTeR/niri                     │ │ PRs  3 Rpo 36     │
+> │ Watch  MixColumns/Please-Don-t-Hat...  │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
