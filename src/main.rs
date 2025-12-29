@@ -1,4 +1,3 @@
-use chrono::prelude::*;
 use figlet_rs::FIGfont;
 use reqwest::blocking::Client;
 use serde_json::{json, Value};
@@ -73,27 +72,21 @@ fn create_ascii_bar(percentage: f64, width: usize) -> String {
 
     for i in 0..width {
         let char = match i.cmp(&filled_width) {
-            std::cmp::Ordering::Less => '█',    // Filled portion
-            std::cmp::Ordering::Equal => '▓',   // Transition
-            std::cmp::Ordering::Greater => '░', // Unfilled portion
+            std::cmp::Ordering::Less => '█',
+            std::cmp::Ordering::Equal => '▒',
+            std::cmp::Ordering::Greater => '░',
         };
         bar.push(char);
     }
 
-    format!("[{}]", bar)
+    bar
 }
 
 fn format_activity(activity: &Value) -> String {
     let event_type = activity["type"].as_str().unwrap_or("").replace("Event", "");
     let repo = activity["repo"]["name"].as_str().unwrap_or("");
-    let created_at = activity["created_at"].as_str().unwrap_or("");
-    let dt = DateTime::parse_from_rfc3339(created_at).unwrap_or_else(|_| Utc::now().into());
-    format!(
-        "{:<16} | {:<15} | {}",
-        dt.format("%Y-%m-%d %H:%M"),
-        event_type,
-        repo
-    )
+    let repo_short = if repo.len() > 30 { format!("{}...", &repo[..27]) } else { repo.to_string() };
+    format!("{:<6} {}", event_type, repo_short)
 }
 
 fn download_font() {
@@ -169,39 +162,6 @@ fn get_github_stats(username: &str, token: &str) -> serde_json::Value {
     })
 }
 
-fn format_github_stats(stats: &Value) -> String {
-    format!(
-        "+-------------+------------------------+----------------+--------------------------------------+\n\
-         |   Metric    |         Value          |     Metric     |                Value                 |\n\
-         +-------------+------------------------+----------------+--------------------------------------+\n\
-         |   Commits   | {:>22} | Issues opened  | {:>36} |\n\
-         | PRs opened  | {:>22} | Stars received | {:>36} |\n\
-         | Repos owned | {:>22} | Contributed to | {:>36} |\n\
-         +-------------+------------------------+----------------+--------------------------------------+",
-        stats["total_commits"].as_u64().unwrap_or(0),
-        stats["total_issues"].as_u64().unwrap_or(0),
-        stats["total_prs"].as_u64().unwrap_or(0),
-        stats["total_stars"].as_u64().unwrap_or(0),
-        stats["repos_owned"].as_u64().unwrap_or(0),
-        stats["contributed_to"].as_u64().unwrap_or(0)
-    )
-}
-
-fn create_ascii_badge(label: &str, value: &str, width: usize) -> String {
-    let total_width = width.max(label.len() + value.len() + 4);
-    let label_width = label.len() + 2;
-    let value_width = total_width - label_width;
-
-    let top_bottom = "─".repeat(total_width);
-    let label_part = format!(" {:<width$}", label, width = label_width - 2);
-    let value_part = format!(" {:<width$} ", value, width = value_width - 2);
-
-    format!(
-        "╭{0}╮\n│{1}│{2}│\n╰{0}╯",
-        top_bottom, label_part, value_part
-    )
-}
-
 fn get_github_followers(username: &str, token: &str) -> u64 {
     let client = Client::new();
     let url = format!("https://api.github.com/users/{}", username);
@@ -229,79 +189,91 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let github_followers = get_github_followers(username, &token);
     let github_stars = github_stats["total_stars"].as_u64().unwrap_or(0);
 
-    // Step 4: Generate ASCII art header and badges
+    // Step 4: Generate ASCII art header
     let font = FIGfont::from_file("gangshit1.flf").expect("Failed to load FIGlet font");
     let figure = font.convert("ZOA").expect("Failed to create ASCII art");
     let ascii_header = figure.to_string();
-    let github_followers_badge = create_ascii_badge("Followers", &github_followers.to_string(), 20);
-    let github_stars_badge = create_ascii_badge("Stars", &github_stars.to_string(), 20);
 
-    let mut output = "> [!WARNING]\n> ```".to_string();
+    let mut output = "> [!WARNING]\n> ```\n".to_string();
 
-    let header_lines: Vec<&str> = ascii_header.lines().collect();
-    let badges_string = format!("{}\n\n{}", github_followers_badge, github_stars_badge);
-    let badge_lines: Vec<&str> = badges_string.lines().collect();
-    let max_header_width = header_lines
-        .iter()
-        .map(|line| line.len())
-        .max()
-        .unwrap_or(0);
-
-    let badge_offset = 4;
-
-    for i in 0..header_lines.len().max(badge_lines.len() + badge_offset) {
-        let header_part = header_lines.get(i).unwrap_or(&"").to_string();
-        let badge_part = if i >= badge_offset {
-            badge_lines.get(i - badge_offset).unwrap_or(&"").to_string()
-        } else {
-            String::new()
-        };
-        output += &format!(
-            "> {:<width$} {}\n",
-            header_part,
-            badge_part,
-            width = max_header_width + 2
-        );
+    // ASCII header (no badges)
+    for line in ascii_header.lines() {
+        output += &format!("> {}\n", line);
     }
 
-    output += "> ```\n";
-    output += "> <p>Software by this user may be <b>potentially hazardous</b>. Explore at your own risk.</p>\n\n";
-    output += "---\n\n";
+    output += ">\n";
+    output += ">  Software may be potentially hazardous. Explore at your own risk.\n";
+    output += ">\n";
 
-    output += "#### 🛠️ Languages\n";
-    output += "```css\n";
-    for (lang, percentage) in top_languages {
-        output += &format!(
-            "{:<12} {} {:.1}%\n",
-            lang,
-            create_ascii_bar(percentage, 20),
-            percentage
-        );
-    }
-    output += "```\n\n";
+    // ASCII cat (no indent)
+    let cat = [
+        r"                          ,",
+        r"  ,-.       _,---._ __  / \",
+        r" /  )    .-'       `./ /   \",
+        r"(  (   ,'            `/    /|",
+        r" \  `-'             \'\   / |",
+        r"  `.              ,  \ \ /  |",
+        r"   /`.          ,'-`----Y   |",
+        r"  (            ;        |   '",
+        r"  |  ,-.    ,-'         |  /",
+        r"  |  | (   |            | /",
+        r"  )  |  \  `.___________|/",
+        r"  `--'   `--'",
+    ];
 
-    output += "#### 📊 Stats\n";
-    output += "```\n";
-    output += &format_github_stats(&github_stats);
-    output += "\n```\n\n";
 
-    output += "#### 🔥 Activity\n";
-    output += "```\n";
-    output += &"-".repeat(60);
-    output += "\n";
-    for activity in activities.iter().take(5) {
-        output += &format_activity(activity);
-        output += "\n";
-    }
-    output += &"-".repeat(60);
-    output += "\n\n";
-    let now: DateTime<Local> = Local::now();
-    output += &format!("Last updated: {}\n", now.format("%Y-%m-%d %H:%M:%S"));
-    output += "```\n\n";
+    // Build language bars
+    let lang_bars: Vec<String> = top_languages.iter().take(6).map(|(lang, pct)| {
+        format!("{:<6} {} {:>5.1}%", lang, create_ascii_bar(*pct, 10), pct)
+    }).collect();
 
-    output += "> [!NOTE]\n";
-    output +=
-        "> <p align=\"center\">This README is <b>auto-generated</b> with Rust and Actions</p>";
+
+    // Sitting cat ASCII (tail aligned diagonally)
+    let cat2 = [
+        r"  /\___/\",
+        r"  )     (",
+        r"  =\   /=",
+        r"  )   (",
+        r" /     \",
+        r" )     (",
+        r"/       \",
+        r"\       /",
+        r" \__ __/",
+        r"    ))",
+        r"    //",
+        r"    ((",
+        r"\)",
+    ];
+
+    // Cat left | Followers/Stars/Langs right | Sitting cat far right
+    output += &format!("> {:<32}┌ Followers ┐ ┌ Stars ────┐  {}\n", cat[0], cat2[0]);
+    output += &format!("> {:<32}│ {:^10}│ │ {:^10}│  {}\n", cat[1], github_followers, github_stars, cat2[1]);
+    output += &format!("> {:<32}└───────────┘ └───────────┘  {}\n", cat[2], cat2[2]);
+    output += &format!("> {:<32}┌ Languages ───────────────┐  {}\n", cat[3], cat2[3]);
+    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[4], lang_bars.get(0).unwrap_or(&String::new()), cat2[4]);
+    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[5], lang_bars.get(1).unwrap_or(&String::new()), cat2[5]);
+    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[6], lang_bars.get(2).unwrap_or(&String::new()), cat2[6]);
+    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[7], lang_bars.get(3).unwrap_or(&String::new()), cat2[7]);
+    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[8], lang_bars.get(4).unwrap_or(&String::new()), cat2[8]);
+    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[9], lang_bars.get(5).unwrap_or(&String::new()), cat2[9]);
+    output += &format!("> {:<32}└──────────────────────────┘ {}\n", cat[10], cat2[10]);
+    output += &format!("> {:<60}{}\n", cat[11], cat2[11]);
+
+    // Activity (left) and Stats (right) side by side
+    let act: Vec<String> = activities.iter().take(3).map(|a| format_activity(a)).collect();
+    let commits = github_stats["total_commits"].as_u64().unwrap_or(0);
+    let prs = github_stats["total_prs"].as_u64().unwrap_or(0);
+    let issues = github_stats["total_issues"].as_u64().unwrap_or(0);
+    let repos = github_stats["repos_owned"].as_u64().unwrap_or(0);
+    let contrib = github_stats["contributed_to"].as_u64().unwrap_or(0);
+
+    // Activity (43 chars) and Stats (21 chars) boxes
+    output += &format!("> ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ {}\n", cat2[12]);
+    output += &format!("> │ {:<39}│ │ {:<17} │\n", act.get(0).unwrap_or(&String::new()), format!("Cmt{:>3} Iss{:>3}", commits, issues));
+    output += &format!("> │ {:<39}│ │ {:<17} │\n", act.get(1).unwrap_or(&String::new()), format!("PRs{:>3} Rpo{:>3}", prs, repos));
+    output += &format!("> │ {:<39}│ │ {:<17} │\n", act.get(2).unwrap_or(&String::new()), format!("Contrib   {:>4}", contrib));
+    output += "> └────────────────────────────────────────┘ └───────────────────┘\n";
+    output += "> ```";
 
     let mut file = File::create("README.md").expect("Failed to create README.md");
     file.write_all(output.as_bytes())
