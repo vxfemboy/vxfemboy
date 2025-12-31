@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/vxfemboy               │ │ Cmt 24 Iss  3     │
-> │ Fork   YaLTeR/niri                     │ │ PRs  3 Rpo 36     │
-> │ Watch  MixColumns/Please-Don-t-Hat...  │ │ Contrib      2    │
+> │ Watch  ginger51011/pandoras_pot        │ │ Cmt 24 Iss  3     │
+> │ Watch  exec/centurion                  │ │ PRs  3 Rpo 36     │
+> │ Watch  w4/pisshoff                     │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
