@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  ginger51011/pandoras_pot        │ │ Cmt 24 Iss  3     │
-> │ Watch  exec/centurion                  │ │ PRs  3 Rpo 36     │
-> │ Watch  w4/pisshoff                     │ │ Contrib      2    │
+> │ Push   vxfemboy/shadowsocks-rust       │ │ Cmt 32 Iss  3     │
+> │ Watch  ginger51011/pandoras_pot        │ │ PRs  3 Rpo 36     │
+> │ Watch  exec/centurion                  │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
