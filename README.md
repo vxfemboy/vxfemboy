@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  vmfunc/nvim                     │ │ Cmt 32 Iss  3     │
-> │ Push   femboyisp/milton-packages       │ │ PRs  3 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      2    │
+> │ Fork   vmfunc/emerge-discord           │ │ Cmt 32 Iss  3     │
+> │ Watch  doctorfree/Asciiville           │ │ PRs  3 Rpo 36     │
+> │ Watch  lateralblast/kvm-nvidia-pas...  │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
