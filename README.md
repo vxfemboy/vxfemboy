@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  i-soxi/even-g2-protocol         │ │ Cmt 32 Iss  3     │
-> │ Push   vxfemboy/shadowsocks-rust       │ │ PRs  3 Rpo 36     │
-> │ Watch  ginger51011/pandoras_pot        │ │ Contrib      2    │
+> │ Watch  vmfunc/nvim                     │ │ Cmt 32 Iss  3     │
+> │ Push   femboyisp/milton-packages       │ │ PRs  3 Rpo 36     │
+> │ Push   femboyisp/milton-packages       │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
