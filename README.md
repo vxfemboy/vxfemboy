@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  all-contributors/allcontrib...  │ │ Cmt 52 Iss  3     │
-> │ Push   femboyisp/milton-packages       │ │ PRs  3 Rpo 36     │
-> │ Fork   vmfunc/emerge-discord           │ │ Contrib      2    │
+> │ Push   femboyisp/milton-packages       │ │ Cmt 52 Iss  3     │
+> │ Watch  all-contributors/allcontrib...  │ │ PRs  3 Rpo 36     │
+> │ Push   femboyisp/milton-packages       │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
