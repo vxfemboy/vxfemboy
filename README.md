@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt 52 Iss  3     │
-> │ Watch  all-contributors/allcontrib...  │ │ PRs  3 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      2    │
+> │ Watch  onfe/Picto                      │ │ Cmt 51 Iss  3     │
+> │ Push   femboyisp/milton-packages       │ │ PRs  3 Rpo 36     │
+> │ Watch  all-contributors/allcontrib...  │ │ Contrib      2    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
