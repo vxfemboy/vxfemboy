@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ IssueComment vmfunc/sif                │ │ Cmt 56 Iss  4     │
+> │ Watch  arsenovic/tnt                   │ │ Cmt 60 Iss  4     │
 > │ IssueComment vmfunc/sif                │ │ PRs  4 Rpo 36     │
-> │ Push   vxfemboy/sif                    │ │ Contrib      3    │
+> │ IssueComment vmfunc/sif                │ │ Contrib      3    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
