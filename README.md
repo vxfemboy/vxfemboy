@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  arsenovic/tnt                   │ │ Cmt 63 Iss  4     │
-> │ IssueComment vmfunc/sif                │ │ PRs  4 Rpo 36     │
+> │ Watch  mattbaker/git-vanity-sha        │ │ Cmt 67 Iss  4     │
+> │ Watch  arsenovic/tnt                   │ │ PRs  4 Rpo 36     │
 > │ IssueComment vmfunc/sif                │ │ Contrib      3    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
