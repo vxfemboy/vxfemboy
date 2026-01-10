@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    225    │ │    1252   │    )     (
+>   ,-.       _,---._ __  / \     │    226    │ │    1251   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  mattbaker/git-vanity-sha        │ │ Cmt 68 Iss  4     │
-> │ Watch  arsenovic/tnt                   │ │ PRs  4 Rpo 36     │
-> │ IssueComment vmfunc/sif                │ │ Contrib      3    │
+> │ Watch  nicoddemus/pytest-rich          │ │ Cmt 68 Iss  4     │
+> │ Watch  mattbaker/git-vanity-sha        │ │ PRs  4 Rpo 36     │
+> │ Watch  arsenovic/tnt                   │ │ Contrib      3    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
