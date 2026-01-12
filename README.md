@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt 69 Iss  4     │
-> │ Push   vxfemboy/sif                    │ │ PRs  4 Rpo 36     │
-> │ Watch  nicoddemus/pytest-rich          │ │ Contrib      3    │
+> │ Watch  torvalds/AudioNoise             │ │ Cmt 69 Iss  4     │
+> │ Push   femboyisp/milton-packages       │ │ PRs  4 Rpo 36     │
+> │ Push   vxfemboy/sif                    │ │ Contrib      3    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
