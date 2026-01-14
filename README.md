@@ -32,7 +32,7 @@
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
 > │ Push   femboyisp/milton-packages       │ │ Cmt 70 Iss  4     │
-> │ Watch  torvalds/AudioNoise             │ │ PRs  4 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      3    │
+> │ PullRequest femboyisp/milton-packages  │ │ PRs  5 Rpo 36     │
+> │ PullRequest femboyisp/milton-packages  │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
