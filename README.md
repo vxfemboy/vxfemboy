@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    228    │ │    1254   │    )     (
+>   ,-.       _,---._ __  / \     │    228    │ │    1255   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  GSConnect/gnome-shell-exten...  │ │ Cmt 70 Iss  4     │
-> │ Watch  skerkour/chacha20-blake3        │ │ PRs  5 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
+> │ Watch  localdesktop/localdesktop       │ │ Cmt 70 Iss  4     │
+> │ Watch  GSConnect/gnome-shell-exten...  │ │ PRs  5 Rpo 36     │
+> │ Watch  skerkour/chacha20-blake3        │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
