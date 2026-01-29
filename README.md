@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  Caerostris/gitfuck              │ │ Cmt 78 Iss  4     │
-> │ Watch  11happy/cpx                     │ │ PRs  5 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
+> │ Watch  saintmicha3l/DGWiki             │ │ Cmt 78 Iss  4     │
+> │ Watch  Caerostris/gitfuck              │ │ PRs  5 Rpo 36     │
+> │ Watch  11happy/cpx                     │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
