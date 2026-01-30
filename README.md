@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  saintmicha3l/DGWiki             │ │ Cmt 78 Iss  4     │
-> │ Watch  Caerostris/gitfuck              │ │ PRs  5 Rpo 36     │
-> │ Watch  11happy/cpx                     │ │ Contrib      4    │
+> │ IssueComment vmfunc/sif                │ │ Cmt 78 Iss  4     │
+> │ Watch  saintmicha3l/DGWiki             │ │ PRs  5 Rpo 36     │
+> │ Watch  Caerostris/gitfuck              │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
