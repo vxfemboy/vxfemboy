@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ IssueComment vmfunc/sif                │ │ Cmt 81 Iss  4     │
-> │ Watch  saintmicha3l/DGWiki             │ │ PRs  5 Rpo 36     │
-> │ Watch  Caerostris/gitfuck              │ │ Contrib      4    │
+> │ Watch  element-hq/synapse              │ │ Cmt 81 Iss  4     │
+> │ IssueComment vmfunc/sif                │ │ PRs  5 Rpo 36     │
+> │ Watch  saintmicha3l/DGWiki             │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
