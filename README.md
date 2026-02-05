@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  element-hq/synapse              │ │ Cmt 81 Iss  4     │
-> │ IssueComment vmfunc/sif                │ │ PRs  5 Rpo 36     │
-> │ Watch  saintmicha3l/DGWiki             │ │ Contrib      4    │
+> │ Watch  greggh/claude-code.nvim         │ │ Cmt 86 Iss  4     │
+> │ Watch  element-hq/synapse              │ │ PRs  5 Rpo 36     │
+> │ IssueComment vmfunc/sif                │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
