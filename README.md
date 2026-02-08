@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  Xe/x                            │ │ Cmt 87 Iss  4     │
-> │ Watch  greggh/claude-code.nvim         │ │ PRs  5 Rpo 36     │
-> │ Watch  element-hq/synapse              │ │ Contrib      4    │
+> │ Watch  atweiden/voidvault              │ │ Cmt 87 Iss  4     │
+> │ Watch  Xe/x                            │ │ PRs  5 Rpo 36     │
+> │ Watch  greggh/claude-code.nvim         │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
