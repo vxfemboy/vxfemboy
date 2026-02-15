@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/uwucoin                │ │ Cmt 92 Iss  4     │
-> │ Push   vxfemboy/uwucoin                │ │ PRs  5 Rpo 36     │
+> │ Push   femboyisp/milton-packages       │ │ Cmt 92 Iss  4     │
+> │ Push   femboyisp/milton-packages       │ │ PRs  5 Rpo 36     │
 > │ Push   vxfemboy/uwucoin                │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
