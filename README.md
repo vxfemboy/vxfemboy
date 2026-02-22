@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  vmfunc/polycule                 │ │ Cmt 96 Iss  4     │
-> │ Fork   signalapp/Signal-Desktop        │ │ PRs  5 Rpo 36     │
+> │ Fork   signalapp/Signal-Desktop        │ │ Cmt 96 Iss  4     │
+> │ Push   femboyisp/milton-packages       │ │ PRs  5 Rpo 36     │
 > │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
