@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    237    │ │    1267   │    )     (
+>   ,-.       _,---._ __  / \     │    238    │ │    1267   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Fork   signalapp/Signal-Desktop        │ │ Cmt 93 Iss  3     │
-> │ Push   femboyisp/milton-packages       │ │ PRs  5 Rpo 36     │
+> │ Watch  finix-community/finix           │ │ Cmt 93 Iss  3     │
+> │ Fork   signalapp/Signal-Desktop        │ │ PRs  5 Rpo 36     │
 > │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
