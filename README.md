@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  finix-community/finix           │ │ Cmt 93 Iss  3     │
-> │ Fork   signalapp/Signal-Desktop        │ │ PRs  5 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
+> │ Watch  NLnetLabs/rotonda               │ │ Cmt 93 Iss  3     │
+> │ Watch  finix-community/finix           │ │ PRs  5 Rpo 36     │
+> │ Fork   signalapp/Signal-Desktop        │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
