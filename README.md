@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt 93 Iss  2     │
-> │ Push   femboyisp/milton-packages       │ │ PRs  5 Rpo 36     │
-> │ Watch  NLnetLabs/rotonda               │ │ Contrib      4    │
+> │ Watch  multipath-tcp/tcp-in-udp        │ │ Cmt 93 Iss  2     │
+> │ Watch  nix-community/disko             │ │ PRs  5 Rpo 36     │
+> │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
