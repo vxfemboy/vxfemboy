@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/asn                    │ │ Cmt 93 Iss  2     │
-> │ Watch  zen-browser/desktop             │ │ PRs  5 Rpo 36     │
-> │ Watch  Idov31/rustomware               │ │ Contrib      4    │
+> │ Watch  Bitti09/bgp.mom                 │ │ Cmt 93 Iss  2     │
+> │ Watch  peeringdb/peeringdb             │ │ PRs  5 Rpo 36     │
+> │ Push   vxfemboy/asn                    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
