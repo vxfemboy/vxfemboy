@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt 93 Iss  2     │
-> │ Watch  xens/ripeinator                 │ │ PRs  5 Rpo 36     │
-> │ Watch  RIPE-NCC/whois                  │ │ Contrib      4    │
+> │ Watch  wtarreau/nolibc                 │ │ Cmt 93 Iss  2     │
+> │ Watch  yggdrasil-network/public-peers  │ │ PRs  5 Rpo 36     │
+> │ Watch  azonenberg/antikernel-ipcores   │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
