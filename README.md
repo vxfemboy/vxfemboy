@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  wtarreau/nolibc                 │ │ Cmt 93 Iss  2     │
-> │ Watch  yggdrasil-network/public-peers  │ │ PRs  5 Rpo 36     │
-> │ Watch  azonenberg/antikernel-ipcores   │ │ Contrib      4    │
+> │ Watch  beluganos/beluganos             │ │ Cmt 91 Iss  2     │
+> │ Watch  iptv-org/iptv                   │ │ PRs  5 Rpo 36     │
+> │ Watch  wtarreau/nolibc                 │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
