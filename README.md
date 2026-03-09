@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  beluganos/beluganos             │ │ Cmt 91 Iss  2     │
-> │ Watch  iptv-org/iptv                   │ │ PRs  5 Rpo 36     │
-> │ Watch  wtarreau/nolibc                 │ │ Contrib      4    │
+> │ Watch  edge-core/sonic-platform-mo...  │ │ Cmt 91 Iss  2     │
+> │ Watch  beluganos/beluganos             │ │ PRs  5 Rpo 36     │
+> │ Watch  iptv-org/iptv                   │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
