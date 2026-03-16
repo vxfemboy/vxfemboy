@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  stepbrobd/router                │ │ Cmt 91 Iss  2     │
-> │ Watch  mc36/freeRtr                    │ │ PRs  4 Rpo 36     │
-> │ Push   vxfemboy/n2n                    │ │ Contrib      4    │
+> │ Watch  edge-core/sonic-buildimage      │ │ Cmt 91 Iss  2     │
+> │ Watch  stepbrobd/router                │ │ PRs  4 Rpo 36     │
+> │ Watch  mc36/freeRtr                    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
