@@ -32,7 +32,7 @@
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
 > │ Watch  stepbrobd/router                │ │ Cmt 91 Iss  2     │
-> │ Watch  mc36/freeRtr                    │ │ PRs  5 Rpo 36     │
+> │ Watch  mc36/freeRtr                    │ │ PRs  4 Rpo 36     │
 > │ Push   vxfemboy/n2n                    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
