@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  ayansk11/ddos-mitigation        │ │ Cmt 53 Iss  2     │
-> │ Watch  AnkurRathore/xdp-ai-guard       │ │ PRs  4 Rpo 36     │
-> │ Watch  nix-community/nixos-anywhere    │ │ Contrib      4    │
+> │ Push   vxfemboy/Signal-Desktop         │ │ Cmt 53 Iss  2     │
+> │ Create vxfemboy/Signal-Desktop         │ │ PRs  4 Rpo 36     │
+> │ Push   vxfemboy/Signal-Desktop         │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
