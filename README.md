@@ -31,7 +31,7 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  ayansk11/ddos-mitigation        │ │ Cmt 52 Iss  2     │
+> │ Watch  ayansk11/ddos-mitigation        │ │ Cmt 53 Iss  2     │
 > │ Watch  AnkurRathore/xdp-ai-guard       │ │ PRs  4 Rpo 36     │
 > │ Watch  nix-community/nixos-anywhere    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
