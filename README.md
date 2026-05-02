@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/asn                    │ │ Cmt 52 Iss  2     │
-> │                                        │ │ PRs  4 Rpo 36     │
-> │                                        │ │ Contrib      4    │
+> │ Watch  ayansk11/ddos-mitigation        │ │ Cmt 52 Iss  2     │
+> │ Watch  AnkurRathore/xdp-ai-guard       │ │ PRs  4 Rpo 36     │
+> │ Watch  nix-community/nixos-anywhere    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
