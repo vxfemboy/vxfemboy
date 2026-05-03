@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/Signal-Desktop         │ │ Cmt 53 Iss  2     │
-> │ Create vxfemboy/Signal-Desktop         │ │ PRs  4 Rpo 36     │
-> │ Push   vxfemboy/Signal-Desktop         │ │ Contrib      4    │
+> │ Push   vxfemboy/vxfemboy               │ │ Cmt 60 Iss  2     │
+> │ Push   vxfemboy/vxfemboy               │ │ PRs  4 Rpo 36     │
+> │ Push   vxfemboy/vxfemboy               │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
