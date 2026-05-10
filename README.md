@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  fabioglimb/even-toolkit         │ │ Cmt 62 Iss  2     │
-> │ Push   vxfemboy/vxfemboy               │ │ PRs  4 Rpo 36     │
-> │ Push   vxfemboy/vxfemboy               │ │ Contrib      4    │
+> │ Fork   LongSoft/UEFITool               │ │ Cmt 62 Iss  2     │
+> │ Watch  LongSoft/UEFITool               │ │ PRs  4 Rpo 36     │
+> │ Watch  fabioglimb/even-toolkit         │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
