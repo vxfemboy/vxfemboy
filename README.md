@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Delete vxfemboy/wipedicks              │ │ Cmt 66 Iss  2     │
-> │ PullRequest vxfemboy/wipedicks         │ │ PRs  5 Rpo 36     │
-> │ Issues vxfemboy/wipedicks              │ │ Contrib      4    │
+> │ Watch  orhun/ratty                     │ │ Cmt 66 Iss  2     │
+> │ Delete vxfemboy/wipedicks              │ │ PRs  5 Rpo 36     │
+> │ PullRequest vxfemboy/wipedicks         │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
