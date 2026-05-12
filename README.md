@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/vxfemboy               │ │ Cmt 66 Iss  2     │
-> │ Watch  str4d/age-plugin-yubikey        │ │ PRs  4 Rpo 36     │
-> │ Watch  DangerousThings/flexsecure-...  │ │ Contrib      4    │
+> │ Delete vxfemboy/wipedicks              │ │ Cmt 66 Iss  2     │
+> │ PullRequest vxfemboy/wipedicks         │ │ PRs  5 Rpo 36     │
+> │ Issues vxfemboy/wipedicks              │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
