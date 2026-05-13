@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    244    │ │    1283   │    )     (
+>   ,-.       _,---._ __  / \     │    244    │ │    1284   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  orhun/ratty                     │ │ Cmt 66 Iss  2     │
-> │ Delete vxfemboy/wipedicks              │ │ PRs  5 Rpo 36     │
+> │ PullRequest vxfemboy/wipedicks         │ │ Cmt 66 Iss  2     │
+> │ PullRequest vxfemboy/wipedicks         │ │ PRs  6 Rpo 36     │
 > │ PullRequest vxfemboy/wipedicks         │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
