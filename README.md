@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  asciinema/agg                   │ │ Cmt 66 Iss  3     │
-> │ Watch  sharkdp/hexyl                   │ │ PRs  6 Rpo 36     │
-> │ Watch  Etto48/HexPatch                 │ │ Contrib      4    │
+> │ Watch  razvandimescu/numa              │ │ Cmt 66 Iss  3     │
+> │ Watch  asciinema/agg                   │ │ PRs  6 Rpo 36     │
+> │ Watch  sharkdp/hexyl                   │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
