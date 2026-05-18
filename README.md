@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt 66 Iss  3     │
-> │ Watch  razvandimescu/numa              │ │ PRs  6 Rpo 36     │
-> │ Watch  asciinema/agg                   │ │ Contrib      4    │
+> │ Delete vxfemboy/wipedicks              │ │ Cmt 72 Iss  3     │
+> │ Push   vxfemboy/wipedicks              │ │ PRs  6 Rpo 36     │
+> │ PullRequest vxfemboy/wipedicks         │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
