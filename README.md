@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    245    │ │    1288   │    )     (
+>   ,-.       _,---._ __  / \     │    245    │ │    1289   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  Perl-7/perl5-rs                 │ │ Cmt 72 Iss  3     │
-> │ Push   femboyisp/milton-packages       │ │ PRs  6 Rpo 36     │
-> │ Delete vxfemboy/wipedicks              │ │ Contrib      4    │
+> │ Watch  key2peace/defender              │ │ Cmt 73 Iss  3     │
+> │ Watch  BigBodyCobain/Shadowbroker      │ │ PRs  6 Rpo 36     │
+> │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
