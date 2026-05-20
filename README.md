@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    245    │ │    1290   │    )     (
+>   ,-.       _,---._ __  / \     │    245    │ │    1289   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  75.4% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  key2peace/defender              │ │ Cmt 73 Iss  3     │
-> │ Watch  BigBodyCobain/Shadowbroker      │ │ PRs  6 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      4    │
+> │ Watch  hackclub/ktr                    │ │ Cmt 74 Iss  3     │
+> │ Watch  extrawurst/ip2country           │ │ PRs  6 Rpo 36     │
+> │ Watch  tanabe/markdown-live-preview    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
