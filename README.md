@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  v12-security/pocs               │ │ Cmt 75 Iss  3     │
-> │ Watch  hackclub/ktr                    │ │ PRs  6 Rpo 36     │
-> │ Watch  extrawurst/ip2country           │ │ Contrib      4    │
+> │ Watch  laurent22/joplin                │ │ Cmt 76 Iss  3     │
+> │ Watch  v12-security/pocs               │ │ PRs  6 Rpo 36     │
+> │ Watch  hackclub/ktr                    │ │ Contrib      4    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
