@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  cronie-crond/cronie             │ │ Cmt 78 Iss  3     │
-> │ Delete femboyisp/milton-packages       │ │ PRs  8 Rpo 36     │
-> │ Push   femboyisp/milton-packages       │ │ Contrib      5    │
+> │ Watch  proxylity/raptor                │ │ Cmt 79 Iss  3     │
+> │ Watch  pixelspark/sushitrain           │ │ PRs  8 Rpo 36     │
+> │ Watch  cronie-crond/cronie             │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
