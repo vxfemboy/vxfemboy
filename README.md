@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  omniedgeio/omniedge             │ │ Cmt 79 Iss  3     │
-> │ Watch  proxylity/raptor                │ │ PRs  8 Rpo 36     │
-> │ Watch  pixelspark/sushitrain           │ │ Contrib      5    │
+> │ Watch  omniedgeio/OmniNervous          │ │ Cmt 79 Iss  3     │
+> │ Watch  Helvesec/rmux                   │ │ PRs  8 Rpo 36     │
+> │ Watch  omniedgeio/omniedge             │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
