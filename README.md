@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  Xilinx/open-nic-shell           │ │ Cmt 79 Iss  3     │
-> │ Watch  ice-ice/dnstunnel               │ │ PRs  8 Rpo 36     │
-> │ Watch  omniedgeio/OmniNervous          │ │ Contrib      5    │
+> │ Watch  sonic-net/sonic-frr             │ │ Cmt 79 Iss  3     │
+> │ Watch  Xilinx/open-nic-shell           │ │ PRs  8 Rpo 36     │
+> │ Watch  ice-ice/dnstunnel               │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
