@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  sonic-net/sonic-frr             │ │ Cmt 79 Iss  3     │
-> │ Watch  Xilinx/open-nic-shell           │ │ PRs  8 Rpo 36     │
-> │ Watch  ice-ice/dnstunnel               │ │ Contrib      5    │
+> │ Watch  bee-san/anki_sorter             │ │ Cmt 79 Iss  3     │
+> │ Watch  SecWiki/linux-kernel-exploits   │ │ PRs  8 Rpo 36     │
+> │ Watch  DovAmir/awesome-design-patt...  │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
