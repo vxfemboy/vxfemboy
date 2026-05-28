@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  bee-san/anki_sorter             │ │ Cmt 79 Iss  3     │
-> │ Watch  SecWiki/linux-kernel-exploits   │ │ PRs  8 Rpo 36     │
-> │ Watch  DovAmir/awesome-design-patt...  │ │ Contrib      5    │
+> │ Watch  guoqingbao/xinfer               │ │ Cmt 79 Iss  3     │
+> │ Watch  maxim-lobanov/setup-xcode       │ │ PRs  8 Rpo 36     │
+> │ Watch  bee-san/anki_sorter             │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
