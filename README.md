@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/claude-llama           │ │ Cmt105 Iss  3     │
-> │ Create vxfemboy/claude-llama           │ │ PRs  8 Rpo 37     │
-> │ Watch  p-e-w/heretic                   │ │ Contrib      5    │
+> │ Push   vxfemboy/vxfemboy               │ │ Cmt106 Iss  3     │
+> │ Watch  NLnetLabs/dnst                  │ │ PRs  8 Rpo 37     │
+> │ Push   vxfemboy/claude-llama           │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
