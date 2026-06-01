@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  oxidecomputer/maghemite         │ │ Cmt120 Iss  3     │
-> │ Watch  oxidecomputer/ispf              │ │ PRs  9 Rpo 38     │
-> │ Watch  hyperion-cs/dpi-checkers        │ │ Contrib      5    │
+> │ Watch  therealaleph/sni-spoofing-rust  │ │ Cmt120 Iss  3     │
+> │ Watch  oxidecomputer/maghemite         │ │ PRs  9 Rpo 38     │
+> │ Watch  oxidecomputer/ispf              │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
