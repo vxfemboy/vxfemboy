@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   vxfemboy/nyancat-rs             │ │ Cmt120 Iss  3     │
-> │ Create vxfemboy/nyancat-rs             │ │ PRs  9 Rpo 38     │
-> │ Watch  patriceckhart/zot               │ │ Contrib      5    │
+> │ Watch  oxidecomputer/maghemite         │ │ Cmt120 Iss  3     │
+> │ Watch  oxidecomputer/ispf              │ │ PRs  9 Rpo 38     │
+> │ Watch  hyperion-cs/dpi-checkers        │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
