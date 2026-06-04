@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    246    │ │    1300   │    )     (
+>   ,-.       _,---._ __  / \     │    246    │ │    1302   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  79.3% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  rtk-ai/rtk                      │ │ Cmt126 Iss  3     │
-> │ Watch  ruvnet/ruflo                    │ │ PRs  9 Rpo 38     │
-> │ Watch  ismet55555/bieye                │ │ Contrib      5    │
+> │ Watch  FrameworkComputer/framework...  │ │ Cmt126 Iss  3     │
+> │ Watch  rtk-ai/rtk                      │ │ PRs  9 Rpo 38     │
+> │ Watch  ruvnet/ruflo                    │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
