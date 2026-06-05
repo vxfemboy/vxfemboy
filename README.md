@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    246    │ │    1301   │    )     (
+>   ,-.       _,---._ __  / \     │    246    │ │    1302   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  79.3% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  ocochard/graphpath              │ │ Cmt132 Iss  3     │
-> │ Watch  FrameworkComputer/framework...  │ │ PRs  9 Rpo 38     │
-> │ Watch  rtk-ai/rtk                      │ │ Contrib      5    │
+> │ Watch  pewdiepie-archdaemon/odysseus   │ │ Cmt132 Iss  3     │
+> │ Watch  ocochard/graphpath              │ │ PRs  9 Rpo 38     │
+> │ Watch  FrameworkComputer/framework...  │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
