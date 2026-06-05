@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  FrameworkComputer/framework...  │ │ Cmt126 Iss  3     │
-> │ Watch  rtk-ai/rtk                      │ │ PRs  9 Rpo 38     │
-> │ Watch  ruvnet/ruflo                    │ │ Contrib      5    │
+> │ Watch  ocochard/graphpath              │ │ Cmt127 Iss  3     │
+> │ Watch  FrameworkComputer/framework...  │ │ PRs  9 Rpo 38     │
+> │ Watch  rtk-ai/rtk                      │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
