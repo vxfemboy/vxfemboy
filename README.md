@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  pewdiepie-archdaemon/odysseus   │ │ Cmt132 Iss  3     │
-> │ Watch  ocochard/graphpath              │ │ PRs  9 Rpo 38     │
-> │ Watch  FrameworkComputer/framework...  │ │ Contrib      5    │
+> │ Watch  dstotijn/hetty                  │ │ Cmt132 Iss  3     │
+> │ Watch  cloudbase/garm-provider-incus   │ │ PRs  9 Rpo 38     │
+> │ Watch  pewdiepie-archdaemon/odysseus   │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
