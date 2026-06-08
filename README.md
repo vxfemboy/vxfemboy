@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  allenan/brr                     │ │ Cmt133 Iss  3     │
-> │ Watch  dstotijn/hetty                  │ │ PRs  9 Rpo 38     │
-> │ Watch  cloudbase/garm-provider-incus   │ │ Contrib      5    │
+> │ Watch  teddysun/across                 │ │ Cmt133 Iss  3     │
+> │ Watch  allenan/brr                     │ │ PRs  9 Rpo 38     │
+> │ Watch  dstotijn/hetty                  │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
