@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  tauri-apps/tauri                │ │ Cmt134 Iss  3     │
-> │ Watch  pocketpy/pocketpy               │ │ PRs  9 Rpo 38     │
+> │ Push   vxfemboy/Signal-Desktop         │ │ Cmt135 Iss  3     │
+> │ Push   vxfemboy/Signal-Desktop         │ │ PRs  9 Rpo 38     │
 > │ Push   vxfemboy/Signal-Desktop         │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
