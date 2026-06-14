@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  HexRaysSA/rax                   │ │ Cmt136 Iss  3     │
-> │ Push   vxfemboy/Signal-Desktop         │ │ PRs  9 Rpo 38     │
-> │ Push   vxfemboy/Signal-Desktop         │ │ Contrib      5    │
+> │ Watch  pmd/pmd                         │ │ Cmt138 Iss  3     │
+> │ Watch  EtoDemerzel0427/ANSI-art        │ │ PRs  9 Rpo 38     │
+> │ Watch  HexRaysSA/rax                   │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
