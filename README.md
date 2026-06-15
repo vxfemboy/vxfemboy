@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  pmd/pmd                         │ │ Cmt138 Iss  3     │
-> │ Watch  EtoDemerzel0427/ANSI-art        │ │ PRs  9 Rpo 38     │
-> │ Watch  HexRaysSA/rax                   │ │ Contrib      5    │
+> │ Watch  Nomadcxx/sysc-greet             │ │ Cmt145 Iss  3     │
+> │ Watch  kernelzeroday/reddit-rs         │ │ PRs  9 Rpo 38     │
+> │ Watch  pmd/pmd                         │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
