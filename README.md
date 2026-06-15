@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  Nomadcxx/sysc-greet             │ │ Cmt145 Iss  3     │
-> │ Watch  kernelzeroday/reddit-rs         │ │ PRs  9 Rpo 38     │
-> │ Watch  pmd/pmd                         │ │ Contrib      5    │
+> │ Watch  signalapp/Signal-iOS            │ │ Cmt145 Iss  3     │
+> │ Watch  thebitstick/zen-export          │ │ PRs  9 Rpo 38     │
+> │ Watch  marcan/takeover.sh              │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
