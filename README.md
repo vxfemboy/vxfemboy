@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  signalapp/Signal-iOS            │ │ Cmt158 Iss  3     │
-> │ Watch  thebitstick/zen-export          │ │ PRs  9 Rpo 38     │
-> │ Watch  marcan/takeover.sh              │ │ Contrib      5    │
+> │ Watch  bbernhard/signal-cli-rest-api   │ │ Cmt166 Iss  3     │
+> │ Watch  TwiN/gatus                      │ │ PRs  9 Rpo 38     │
+> │ Watch  signalapp/Signal-iOS            │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
