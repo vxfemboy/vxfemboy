@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  cispa/DNS-Applayer-DDoS-Pro...  │ │ Cmt207 Iss  3     │
-> │ Watch  Tencent/AI-Infra-Guard          │ │ PRs  9 Rpo 38     │
-> │ Watch  el-ev/wss                       │ │ Contrib      5    │
+> │ Watch  prdgmshift/usbliter8            │ │ Cmt208 Iss  3     │
+> │ Watch  cispa/DNS-Applayer-DDoS-Pro...  │ │ PRs  9 Rpo 38     │
+> │ Watch  Tencent/AI-Infra-Guard          │ │ Contrib      5    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
