@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Issues femboyisp/blackwall             │ │ Cmt461 Iss 81     │
-> │ Push   femboyisp/emry                  │ │ PRs 38 Rpo 38     │
-> │ Issues femboyisp/emry                  │ │ Contrib      8    │
+> │ Issues femboyisp/blackwall             │ │ Cmt502 Iss 82     │
+> │ Issues vxfemboy/Signal-Desktop         │ │ PRs 43 Rpo 38     │
+> │ Issues femboyisp/blackwall             │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
