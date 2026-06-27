@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  AvAdiii/rewardspy               │ │ Cmt630 Iss 88     │
-> │ Delete femboyisp/emry                  │ │ PRs 63 Rpo 38     │
-> │ Push   femboyisp/emry                  │ │ Contrib      8    │
+> │ Watch  oborseth/Porkbun-MCP            │ │ Cmt630 Iss 88     │
+> │ Watch  AvAdiii/rewardspy               │ │ PRs 63 Rpo 38     │
+> │ Delete femboyisp/emry                  │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
