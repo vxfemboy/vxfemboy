@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/blackwall        │ │ Cmt638 Iss 92     │
-> │ Issues femboyisp/blackwall             │ │ PRs 65 Rpo 38     │
-> │ Issues femboyisp/blackwall             │ │ Contrib      8    │
+> │ Delete femboyisp/blackwall             │ │ Cmt650 Iss 92     │
+> │ Push   femboyisp/blackwall             │ │ PRs 65 Rpo 38     │
+> │ PullRequest femboyisp/blackwall        │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
