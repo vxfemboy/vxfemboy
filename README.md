@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/blackwall        │ │ Cmt969 Iss108     │
-> │ Issues femboyisp/blackwall             │ │ PRs 86 Rpo 38     │
-> │ Push   femboyisp/blackwall             │ │ Contrib      8    │
+> │ Fork   lance0/ttl                      │ │ Cmt969 Iss109     │
+> │ Watch  lance0/ttl                      │ │ PRs 87 Rpo 38     │
+> │ PullRequest femboyisp/blackwall        │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
