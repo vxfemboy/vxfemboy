@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  xxnuo/open-coreui               │ │ Cmt1032 Iss112    │
-> │ PullRequest femboyisp/blackwall        │ │ PRs 91 Rpo 38     │
-> │ Create femboyisp/blackwall             │ │ Contrib      8    │
+> │ Push   femboyisp/blackwall             │ │ Cmt1112 Iss119    │
+> │ Delete femboyisp/blackwall             │ │ PRs100 Rpo 38     │
+> │ Issues femboyisp/blackwall             │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
