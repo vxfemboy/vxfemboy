@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Fork   fujiapple852/trippy             │ │ Cmt1174 Iss122    │
-> │ Watch  fujiapple852/trippy             │ │ PRs103 Rpo 38     │
-> │ Delete femboyisp/blackwall             │ │ Contrib      8    │
+> │ Create femboyisp/blackwall             │ │ Cmt1200 Iss123    │
+> │ PullRequest femboyisp/blackwall        │ │ PRs107 Rpo 38     │
+> │ PullRequest femboyisp/blackwall        │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
