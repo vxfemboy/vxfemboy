@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  MagnusPladsen/dark-glass-theme  │ │ Cmt1222 Iss129    │
-> │ Watch  equalitie/shodan_fingerprinter  │ │ PRs122 Rpo 38     │
-> │ Watch  searxng/searxng                 │ │ Contrib      8    │
+> │ Watch  librepods-org/librepods         │ │ Cmt1222 Iss129    │
+> │ Fork   librepods-org/librepods         │ │ PRs122 Rpo 38     │
+> │ Watch  MagnusPladsen/dark-glass-theme  │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
