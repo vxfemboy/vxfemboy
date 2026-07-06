@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    252    │ │    1315   │    )     (
+>   ,-.       _,---._ __  / \     │    252    │ │    1314   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  79.3% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  librepods-org/librepods         │ │ Cmt1220 Iss129    │
-> │ Fork   librepods-org/librepods         │ │ PRs122 Rpo 38     │
-> │ Watch  MagnusPladsen/dark-glass-theme  │ │ Contrib      8    │
+> │ PullRequest femboyisp/blackwall        │ │ Cmt1239 Iss131    │
+> │ Push   femboyisp/blackwall             │ │ PRs126 Rpo 38     │
+> │ Delete femboyisp/blackwall             │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
