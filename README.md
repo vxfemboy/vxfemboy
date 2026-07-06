@@ -31,7 +31,7 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  librepods-org/librepods         │ │ Cmt1222 Iss129    │
+> │ Watch  librepods-org/librepods         │ │ Cmt1220 Iss129    │
 > │ Fork   librepods-org/librepods         │ │ PRs122 Rpo 38     │
 > │ Watch  MagnusPladsen/dark-glass-theme  │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
