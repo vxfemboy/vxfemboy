@@ -32,7 +32,7 @@
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
 > │ PullRequest femboyisp/blackwall        │ │ Cmt1239 Iss131    │
-> │ Push   femboyisp/blackwall             │ │ PRs126 Rpo 38     │
-> │ Delete femboyisp/blackwall             │ │ Contrib      8    │
+> │ Delete femboyisp/blackwall             │ │ PRs126 Rpo 38     │
+> │ Push   femboyisp/blackwall             │ │ Contrib      8    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
