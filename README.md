@@ -19,20 +19,20 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    253    │ │    1314   │    )     (
+>   ,-.       _,---._ __  / \     │    254    │ │    1314   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
->  \  `-'             \'\   / |   │ C      ████████▒░  79.3% │   /     \
->   `.              ,  \ \ /  |   │ PHP    █▒░░░░░░░░   9.1% │   )     (
->    /`.          ,'-`----Y   |   │ HTML   ▒░░░░░░░░░   2.8% │  /       \
->   (            ;        |   '   │ Blade  ▒░░░░░░░░░   1.6% │  \       /
->   |  ,-.    ,-'         |  /    │ Rust   ▒░░░░░░░░░   1.5% │   \__ __/
+>  \  `-'             \'\   / |   │ C      ████████▒░  78.9% │   /     \
+>   `.              ,  \ \ /  |   │ PHP    █▒░░░░░░░░   9.0% │   )     (
+>    /`.          ,'-`----Y   |   │ HTML   ▒░░░░░░░░░   2.7% │  /       \
+>   (            ;        |   '   │ Rust   ▒░░░░░░░░░   2.4% │  \       /
+>   |  ,-.    ,-'         |  /    │ Blade  ▒░░░░░░░░░   1.6% │   \__ __/
 >   |  | (   |            | /     │ C++    ▒░░░░░░░░░   1.4% │      ))
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ IssueComment femboyisp/blackwall       │ │ Cmt1784 Iss156    │
-> │ IssueComment femboyisp/blackwall       │ │ PRs168 Rpo 38     │
-> │ IssueComment femboyisp/blackwall       │ │ Contrib      9    │
+> │ IssueComment femboyisp/yip             │ │ Cmt1744 Iss180    │
+> │ Fork   ThomasMiz/dust-devil            │ │ PRs203 Rpo 38     │
+> │ Watch  kernelzeroday/ytsmx             │ │ Contrib     10    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
