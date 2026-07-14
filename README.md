@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/yip              │ │ Cmt1761 Iss184    │
-> │ Create femboyisp/yip                   │ │ PRs207 Rpo 38     │
-> │ Issues femboyisp/yip                   │ │ Contrib     10    │
+> │ Watch  lance0/prefixd                  │ │ Cmt1762 Iss184    │
+> │ Watch  kernelzeroday/magnets-cli       │ │ PRs207 Rpo 38     │
+> │ Delete femboyisp/yip                   │ │ Contrib     10    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
