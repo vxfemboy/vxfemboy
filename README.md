@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    253    │ │    1316   │    )     (
+>   ,-.       _,---._ __  / \     │    254    │ │    1316   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  78.9% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Delete femboyisp/blackwall             │ │ Cmt1764 Iss185    │
-> │ Push   femboyisp/blackwall             │ │ PRs208 Rpo 38     │
-> │ PullRequest femboyisp/blackwall        │ │ Contrib     10    │
+> │ Issues femboyisp/blackwall             │ │ Cmt1970 Iss187    │
+> │ PullRequest femboyisp/blackwall        │ │ PRs211 Rpo 38     │
+> │ Delete femboyisp/blackwall             │ │ Contrib     10    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
