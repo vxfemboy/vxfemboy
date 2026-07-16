@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  spider-rs/spider                │ │ Cmt2044 Iss188    │
-> │ Watch  OpenCut-app/OpenCut             │ │ PRs217 Rpo 38     │
-> │ Watch  xai-org/grok-build              │ │ Contrib     10    │
+> │ Watch  google/oss-fuzz                 │ │ Cmt2049 Iss190    │
+> │ Watch  lance0/oss-fuzz                 │ │ PRs219 Rpo 38     │
+> │ Watch  RustCrypto/signatures           │ │ Contrib     10    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
