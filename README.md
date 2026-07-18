@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/yip              │ │ Cmt2167 Iss192    │
-> │ Create femboyisp/yip                   │ │ PRs225 Rpo 38     │
-> │ Watch  bitcoin/bitcoin                 │ │ Contrib     10    │
+> │ Watch  lyogavin/airllm                 │ │ Cmt2177 Iss192    │
+> │ Watch  SafeAILab/EAGLE                 │ │ PRs227 Rpo 38     │
+> │ PullRequest femboyisp/yip              │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
