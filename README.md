@@ -31,7 +31,7 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/yip              │ │ Cmt2153 Iss192    │
+> │ PullRequest femboyisp/yip              │ │ Cmt2167 Iss192    │
 > │ Create femboyisp/yip                   │ │ PRs225 Rpo 38     │
 > │ Watch  bitcoin/bitcoin                 │ │ Contrib     10    │
 > └────────────────────────────────────────┘ └───────────────────┘
