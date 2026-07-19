@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  0xdea/augur                     │ │ Cmt2246 Iss194    │
-> │ Watch  openinterpreter/openinterpr...  │ │ PRs232 Rpo 38     │
-> │ Issues femboyisp/yip                   │ │ Contrib     11    │
+> │ Push   femboyisp/milton-packages       │ │ Cmt2246 Iss194    │
+> │ Watch  ayghri/i-have-adhd              │ │ PRs232 Rpo 38     │
+> │ Watch  0xdea/augur                     │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
