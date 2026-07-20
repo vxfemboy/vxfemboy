@@ -19,7 +19,7 @@
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    254    │ │    1320   │    )     (
+>   ,-.       _,---._ __  / \     │    254    │ │    1321   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
 >  \  `-'             \'\   / |   │ C      ████████▒░  78.9% │   /     \
@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Public vxfemboy/zoa.sh                 │ │ Cmt2234 Iss203    │
-> │ Watch  hinto-janai/monero-vanity       │ │ PRs234 Rpo 39     │
-> │ Watch  ogulcancelik/herdr              │ │ Contrib     11    │
+> │ PullRequest femboyisp/yip              │ │ Cmt2234 Iss203    │
+> │ Create femboyisp/yip                   │ │ PRs235 Rpo 39     │
+> │ Public vxfemboy/zoa.sh                 │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
