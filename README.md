@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/yip              │ │ Cmt2234 Iss203    │
-> │ Create femboyisp/yip                   │ │ PRs235 Rpo 39     │
-> │ Public vxfemboy/zoa.sh                 │ │ Contrib     11    │
+> │ Watch  ferosai/feros                   │ │ Cmt2234 Iss203    │
+> │ Watch  stanfordnlp/dspy                │ │ PRs235 Rpo 39     │
+> │ Watch  haizelabs/dspy-redteam          │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
