@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ IssueComment femboyisp/yip             │ │ Cmt2265 Iss203    │
-> │ Watch  aiwnios/Aiwnios                 │ │ PRs238 Rpo 39     │
-> │ Watch  A-poc/RedTeam-Tools             │ │ Contrib     11    │
+> │ Issues femboyisp/yip                   │ │ Cmt2298 Iss204    │
+> │ PullRequest femboyisp/yip              │ │ PRs240 Rpo 39     │
+> │ Create femboyisp/yip                   │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
