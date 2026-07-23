@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt2351 Iss204    │
-> │ Push   femboyisp/milton-packages       │ │ PRs243 Rpo 39     │
+> │ Watch  mesamirh/MovieBox-Tui           │ │ Cmt2351 Iss204    │
+> │ Delete femboyisp/purroute              │ │ PRs244 Rpo 39     │
 > │ Delete femboyisp/purroute              │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
