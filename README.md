@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Watch  mesamirh/MovieBox-Tui           │ │ Cmt2351 Iss204    │
-> │ Delete femboyisp/purroute              │ │ PRs244 Rpo 39     │
+> │ Watch  arcee-ai/mergekit               │ │ Cmt2360 Iss204    │
+> │ Watch  mesamirh/MovieBox-Tui           │ │ PRs244 Rpo 39     │
 > │ Delete femboyisp/purroute              │ │ Contrib     11    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
