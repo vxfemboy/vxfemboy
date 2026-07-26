@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/yip              │ │ Cmt2375 Iss243    │
-> │ Create femboyisp/yip                   │ │ PRs299 Rpo 39     │
-> │ Watch  smoltcp-rs/smoltcp              │ │ Contrib     12    │
+> │ PullRequest femboyisp/kibble           │ │ Cmt2388 Iss243    │
+> │ Delete femboyisp/kibble                │ │ PRs302 Rpo 39     │
+> │ Push   femboyisp/kibble                │ │ Contrib     12    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
