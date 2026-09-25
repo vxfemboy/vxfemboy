@@ -1,38 +1,38 @@
 > [!WARNING]
 > ```
->                                         ..       .:,       .            
->                  ..,'           ...  'cdOOl.  .:dko,      ,ko.          
->             .':ox0K0l.         'kOccoo:;kW0:;dxo;.        ;XNc          
->        .,coxkkdxKKl.          .dN0d:.  .xWXOo;.           ,KW0,         
->  .codxkkxdc,..;xx'           ,xXK:   .:xXNd.              ;KNNx.        
->  .:ol:'.    'dk:           ;doxNk..:dxdkNK;               :0dkNl        
->           .lOl.   ..     'xx,.oN0xkd:..xWd.               l0;;KK;    ...
->         .:kd'    'kd.   .ONd:dKNk;.   :X0,                o0,.xN0dooool;
->        ,xx;      .k0,   .oOOxxXX:    'OXc            ..';l0XkxxONKl..   
->      .dk:.        ,OO;    .  ,0K,   .dNo.           xOOkxOXd'. .kNd.    
->    .l0Olcodxxxkkkkx0NXd'     ,KK,  .oXd.            ...  lO,    'ONd.   
->   :ONXOxdl:;,'''',:cokKO     ;KK, .dKl.                 .Ox.     'ONx.  
-> .xKxc,.               ..     ,KNockk,                   lK:       .kN0: 
-> .:'                          .dXKkc.                   '0k.        .lx; 
->                                ..                      .;.              
+>                                      ..       .:, .            
+>                  ..,'        ...  'cdOOl.  .:dko,,ko.          
+>             .':ox0K0l.      'kOccoo:;kW0:;dxo;.  ;XNc          
+>        .,coxkkdxKKl.       .dN0d:.  .xWXOo;.     ,KW0,         
+>  .codxkkxdc,..;xx'        ,xXK:   .:xXNd.        ;KNNx.        
+>  .:ol:'.    'dk:        ;doxNk..:dxdkNK;         :0dkNl        
+>           .lOl.   ..  'xx,.oN0xkd:..xWd.         l0;;KK;    ...
+>         .:kd'    'kd..ONd:dKNk;.   :X0,          o0,.xN0dooool;
+>        ,xx;      .k0,.oOOxxXX:    'OXc      ..';l0XkxxONKl..   
+>      .dk:.        ,OO; .  ,0K,   .dNo.     xOOkxOXd'. .kNd.    
+>    .l0Olcodxxxkkkkx0NXd'  ,KK,  .oXd.      ...  lO,    'ONd.   
+>   :ONXOxdl:;,'''',:cokKO  ;KK, .dKl.           .Ox.     'ONx.  
+> .xKxc,.               ..  ,KNockk,             lK:       .kN0: 
+> .:'                       .dXKkc.             '0k.        .lx; 
+>                             ..                .;.              
 >
 >  Software may be potentially hazardous. Explore at your own risk.
 >
 >                           ,     ┌ Followers ┐ ┌ Stars ────┐    /\___/\
->   ,-.       _,---._ __  / \     │    258    │ │    1323   │    )     (
+>   ,-.       _,---._ __  / \     │    268    │ │    1342   │    )     (
 >  /  )    .-'       `./ /   \    └───────────┘ └───────────┘    =\   /=
 > (  (   ,'            `/    /|   ┌ Languages ───────────────┐    )   (
->  \  `-'             \'\   / |   │ C      ████████▒░  78.9% │   /     \
->   `.              ,  \ \ /  |   │ PHP    █▒░░░░░░░░   9.0% │   )     (
->    /`.          ,'-`----Y   |   │ HTML   ▒░░░░░░░░░   2.7% │  /       \
->   (            ;        |   '   │ Rust   ▒░░░░░░░░░   2.4% │  \       /
->   |  ,-.    ,-'         |  /    │ Blade  ▒░░░░░░░░░   1.6% │   \__ __/
->   |  | (   |            | /     │ C++    ▒░░░░░░░░░   1.4% │      ))
+>  \  `-'             \'\   / |   │ C      ███████▒░░  71.4% │   /     \
+>   `.              ,  \ \ /  |   │ PHP    █▒░░░░░░░░   8.3% │   )     (
+>    /`.          ,'-`----Y   |   │ TypeScript █▒░░░░░░░░   6.4%│  /       \
+>   (            ;        |   '   │ Python ▒░░░░░░░░░   2.7% │  \       /
+>   |  ,-.    ,-'         |  /    │ HTML   ▒░░░░░░░░░   2.5% │   \__ __/
+>   |  | (   |            | /     │ Rust   ▒░░░░░░░░░   2.4% │      ))
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ PullRequest femboyisp/kibble           │ │ Cmt2388 Iss243    │
-> │ Delete femboyisp/kibble                │ │ PRs302 Rpo 39     │
-> │ Push   femboyisp/kibble                │ │ Contrib     12    │
+> │ Watch  google/ax                       │ │ Cmt3341 Iss323    │
+> │ Push   femboyisp/purroute              │ │ PRs357 Rpo 58     │
+> │ Watch  trezor/trezor-suite             │ │ Contrib     23    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```

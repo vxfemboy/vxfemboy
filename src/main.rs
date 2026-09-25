@@ -1,4 +1,4 @@
-use figlet_rs::FIGfont;
+use figlet_rs::FIGlet;
 use reqwest::blocking::Client;
 use serde_json::{json, Value};
 use std::env;
@@ -190,7 +190,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let github_stars = github_stats["total_stars"].as_u64().unwrap_or(0);
 
     // Step 4: Generate ASCII art header
-    let font = FIGfont::from_file("gangshit1.flf").expect("Failed to load FIGlet font");
+    let font = FIGlet::from_file("gangshit1.flf").expect("Failed to load FIGlet font");
     let figure = font.convert("ZOA").expect("Failed to create ASCII art");
     let ascii_header = figure.to_string();
 
