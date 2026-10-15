@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Delete femboyisp/yip                   │ │ Cmt4410 Iss306    │
-> │ Create femboyisp/yip                   │ │ PRs365 Rpo 39     │
+> │ Push   femboyisp/yip                   │ │ Cmt4410 Iss306    │
+> │ Push   femboyisp/yip                   │ │ PRs365 Rpo 39     │
 > │ Delete femboyisp/yip                   │ │ Contrib     13    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
