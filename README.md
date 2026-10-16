@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────┘     //
 >   `--'   `--'                                                   ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ \)
-> │ Push   femboyisp/milton-packages       │ │ Cmt4421 Iss306    │
-> │ Push   femboyisp/yip                   │ │ PRs367 Rpo 39     │
+> │ Push   femboyisp/yip                   │ │ Cmt4421 Iss306    │
+> │ Push   femboyisp/milton-packages       │ │ PRs367 Rpo 39     │
 > │ Push   femboyisp/yip                   │ │ Contrib     13    │
 > └────────────────────────────────────────┘ └───────────────────┘
 > ```
