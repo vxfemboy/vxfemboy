@@ -224,7 +224,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     // Build language bars
     let lang_bars: Vec<String> = top_languages.iter().take(6).map(|(lang, pct)| {
-        format!("{:<6} {} {:>5.1}%", lang, create_ascii_bar(*pct, 10), pct)
+        format!("{:<10.10} {} {:>5.1}%", lang, create_ascii_bar(*pct, 10), pct)
     }).collect();
 
 
@@ -246,18 +246,18 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     ];
 
     // Cat left | Followers/Stars/Langs right | Sitting cat far right
-    output += &format!("> {:<32}┌ Followers ┐ ┌ Stars ────┐  {}\n", cat[0], cat2[0]);
-    output += &format!("> {:<32}│ {:^10}│ │ {:^10}│  {}\n", cat[1], github_followers, github_stars, cat2[1]);
-    output += &format!("> {:<32}└───────────┘ └───────────┘  {}\n", cat[2], cat2[2]);
-    output += &format!("> {:<32}┌ Languages ───────────────┐  {}\n", cat[3], cat2[3]);
-    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[4], lang_bars.get(0).unwrap_or(&String::new()), cat2[4]);
-    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[5], lang_bars.get(1).unwrap_or(&String::new()), cat2[5]);
-    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[6], lang_bars.get(2).unwrap_or(&String::new()), cat2[6]);
-    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[7], lang_bars.get(3).unwrap_or(&String::new()), cat2[7]);
-    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[8], lang_bars.get(4).unwrap_or(&String::new()), cat2[8]);
-    output += &format!("> {:<32}│ {:<25}│  {}\n", cat[9], lang_bars.get(5).unwrap_or(&String::new()), cat2[9]);
-    output += &format!("> {:<32}└──────────────────────────┘ {}\n", cat[10], cat2[10]);
-    output += &format!("> {:<60}{}\n", cat[11], cat2[11]);
+    output += &format!("> {:<32}┌ Followers ──┐ ┌ Stars ───────┐  {}\n", cat[0], cat2[0]);
+    output += &format!("> {:<32}│ {:^11} │ │ {:^12} │  {}\n", cat[1], github_followers, github_stars, cat2[1]);
+    output += &format!("> {:<32}└─────────────┘ └──────────────┘  {}\n", cat[2], cat2[2]);
+    output += &format!("> {:<32}┌ Languages ───────────────────┐  {}\n", cat[3], cat2[3]);
+    output += &format!("> {:<32}│ {:<28} │  {}\n", cat[4], lang_bars.get(0).unwrap_or(&String::new()), cat2[4]);
+    output += &format!("> {:<32}│ {:<28} │  {}\n", cat[5], lang_bars.get(1).unwrap_or(&String::new()), cat2[5]);
+    output += &format!("> {:<32}│ {:<28} │  {}\n", cat[6], lang_bars.get(2).unwrap_or(&String::new()), cat2[6]);
+    output += &format!("> {:<32}│ {:<28} │  {}\n", cat[7], lang_bars.get(3).unwrap_or(&String::new()), cat2[7]);
+    output += &format!("> {:<32}│ {:<28} │  {}\n", cat[8], lang_bars.get(4).unwrap_or(&String::new()), cat2[8]);
+    output += &format!("> {:<32}│ {:<28} │  {}\n", cat[9], lang_bars.get(5).unwrap_or(&String::new()), cat2[9]);
+    output += &format!("> {:<32}└──────────────────────────────┘ {}\n", cat[10], cat2[10]);
+    output += &format!("> {:<64}{}\n", cat[11], cat2[11]);
 
     // Activity (left) and Stats (right) side by side
     let act: Vec<String> = activities.iter().take(3).map(|a| format_activity(a)).collect();
@@ -267,12 +267,12 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     let repos = github_stats["repos_owned"].as_u64().unwrap_or(0);
     let contrib = github_stats["contributed_to"].as_u64().unwrap_or(0);
 
-    // Activity (43 chars) and Stats (21 chars) boxes
-    output += &format!("> ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────┐ {}\n", cat2[12]);
-    output += &format!("> │ {:<39}│ │ {:<17} │\n", act.get(0).unwrap_or(&String::new()), format!("Cmt{:>3} Iss{:>3}", commits, issues));
-    output += &format!("> │ {:<39}│ │ {:<17} │\n", act.get(1).unwrap_or(&String::new()), format!("PRs{:>3} Rpo{:>3}", prs, repos));
-    output += &format!("> │ {:<39}│ │ {:<17} │\n", act.get(2).unwrap_or(&String::new()), format!("Contrib   {:>4}", contrib));
-    output += "> └────────────────────────────────────────┘ └───────────────────┘\n";
+    // Activity (43 chars) and Stats (25 chars) boxes
+    output += &format!("> ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ {}\n", cat2[12]);
+    output += &format!("> │ {:<39}│ │ {:<21} │\n", act.get(0).unwrap_or(&String::new()), format!("Cmt{:>3} Iss{:>3}", commits, issues));
+    output += &format!("> │ {:<39}│ │ {:<21} │\n", act.get(1).unwrap_or(&String::new()), format!("PRs{:>3} Rpo{:>3}", prs, repos));
+    output += &format!("> │ {:<39}│ │ {:<21} │\n", act.get(2).unwrap_or(&String::new()), format!("Contrib   {:>4}", contrib));
+    output += "> └────────────────────────────────────────┘ └───────────────────────┘\n";
     output += "> ```";
 
     let mut file = File::create("README.md").expect("Failed to create README.md");
