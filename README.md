@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────────┘     //
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
-> │ IssueComment femboyisp/yip             │ │ Cmt4482 Iss309        │
-> │ Issues femboyisp/yip                   │ │ PRs371 Rpo 39         │
-> │ PullRequest femboyisp/yip              │ │ Contrib     13        │
+> │ PullRequest femboyisp/yip              │ │ Cmt4487 Iss309        │
+> │ Issues femboyisp/yip                   │ │ PRs372 Rpo 39         │
+> │ Push   femboyisp/yip                   │ │ Contrib     13        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
