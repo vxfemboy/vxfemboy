@@ -32,7 +32,7 @@
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
 > │ Create femboyisp/yip                   │ │ Cmt4553 Iss309        │
-> │ Delete femboyisp/yip                   │ │ PRs381 Rpo 39         │
-> │ Push   femboyisp/yip                   │ │ Contrib     13        │
+> │ Create femboyisp/yip                   │ │ PRs381 Rpo 39         │
+> │ Delete femboyisp/yip                   │ │ Contrib     13        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
