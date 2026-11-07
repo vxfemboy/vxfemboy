@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────────┘     //
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
-> │ Watch  chris124567/cfsolve             │ │ Cmt4862 Iss314        │
-> │ PullRequest femboyisp/yip              │ │ PRs393 Rpo 39         │
-> │ Issues femboyisp/yip                   │ │ Contrib     14        │
+> │ Create femboyisp/yip                   │ │ Cmt4864 Iss314        │
+> │ Delete femboyisp/yip                   │ │ PRs393 Rpo 39         │
+> │ Watch  chris124567/cfsolve             │ │ Contrib     14        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
