@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────────┘     //
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
-> │ Watch  tempoxyz/tempo                  │ │ Cmt4917 Iss314        │
-> │ Watch  whiskerrs/whisker               │ │ PRs393 Rpo 39         │
-> │ Watch  mozilla/uniffi-rs               │ │ Contrib     14        │
+> │ Create femboyisp/yip                   │ │ Cmt4935 Iss314        │
+> │ Watch  tempoxyz/tempo                  │ │ PRs393 Rpo 39         │
+> │ Watch  whiskerrs/whisker               │ │ Contrib     14        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
