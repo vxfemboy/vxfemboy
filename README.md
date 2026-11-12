@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────────┘     //
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
-> │ Watch  flockcap/cantrip                │ │ Cmt4988 Iss314        │
-> │ Push   femboyisp/yip                   │ │ PRs393 Rpo 39         │
-> │ Create femboyisp/yip                   │ │ Contrib     14        │
+> │ Issues femboyisp/yip                   │ │ Cmt5000 Iss320        │
+> │ Issues femboyisp/yip                   │ │ PRs393 Rpo 39         │
+> │ Issues femboyisp/yip                   │ │ Contrib     14        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
