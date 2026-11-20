@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────────┘     //
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
-> │ Watch  extencil/stop2shell             │ │ Cmt5239 Iss355        │
-> │ Watch  pithings/unkernel               │ │ PRs424 Rpo 39         │
-> │ Watch  extencil/unkernel               │ │ Contrib     15        │
+> │ Push   femboyisp/yip                   │ │ Cmt5267 Iss362        │
+> │ Issues femboyisp/yip                   │ │ PRs424 Rpo 39         │
+> │ Issues femboyisp/yip                   │ │ Contrib     15        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
