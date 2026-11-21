@@ -31,8 +31,8 @@
 >   )  |  \  `.___________|/      └──────────────────────────────┘     //
 >   `--'   `--'                                                       ((
 > ┌ Activity ──────────────────────────────┐ ┌ Stats ────────────────┐ \)
-> │ Push   femboyisp/yip                   │ │ Cmt5347 Iss363        │
-> │ PullRequest femboyisp/yip              │ │ PRs425 Rpo 39         │
-> │ Issues femboyisp/yip                   │ │ Contrib     15        │
+> │ Watch  Svemeh/houston-we-have-a-pa...  │ │ Cmt5374 Iss364        │
+> │ Watch  usestrix/strix                  │ │ PRs428 Rpo 39         │
+> │ Watch  openvinotoolkit/openvino        │ │ Contrib     15        │
 > └────────────────────────────────────────┘ └───────────────────────┘
 > ```
